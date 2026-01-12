@@ -19,50 +19,6 @@ def reshape_matrix(nums, rows, columns):
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #     new_shape = []
 #     temp_list = []
 
